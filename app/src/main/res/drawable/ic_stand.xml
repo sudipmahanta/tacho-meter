@@ -1,0 +1,43 @@
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Stand pivot -->
+    <path
+        android:strokeColor="#15803D"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M12,10 L20,10 L20,18" />
+
+    <!-- Kickstand leg -->
+    <path
+        android:strokeColor="#15803D"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M20,18 L32,39" />
+
+    <!-- Ground contact foot -->
+    <path
+        android:strokeColor="#15803D"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android.strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M27,39 L37,39" />
+
+    <!-- Ground line -->
+    <path
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M7,43 L41,43" />
+
+</vector>
